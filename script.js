@@ -1,0 +1,1 @@
+const surfer = document.getElementById('surfer1');
